@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UOMe</string>
+    <string name="UOMe">UOMe</string>
+    <string name="title_activity_add_person_page">addPersonPage</string>
+    <string name="addPersonPageName">Add A New Participant</string>
+    <string name="Add">Add</string>
+    <string name="Cancel">Cancel</string>
+    <string name="EnterName">Enter Participant\'s Name</string>
+    <string name="AddNewParticipant">Add New Participant</string>
+    <string name="AddNewAmount">Add New Amount</string>
+    <string name="title_activity_add_amount_page">addAmountPage</string>
+    <string name="Owes">owes</string>
+    <string name="PleaseEnterTheAmount">Enter the amount owed</string>
+    <string name="AddNewAmountPageTitle">Add A New Amount</string>
+</resources>
